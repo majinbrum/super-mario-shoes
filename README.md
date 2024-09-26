@@ -40,9 +40,6 @@
         <a href="#contacts">Contacts</a>
     </li>
     <li>
-        <a href="#references">References</a>
-    </li>
-    <li>
         <a href="#license">License</a>
     </li>
   </ol>
