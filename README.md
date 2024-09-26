@@ -3,7 +3,7 @@
 <a id="readme-top"></a>
 
 <div align="center">
- <img src="./preview.png" alt="Preview" width="521" height="587">
+ <img src="./preview.png" alt="Preview">
 
   <h3 align="center">Super Mario Shoes</h3>
 
