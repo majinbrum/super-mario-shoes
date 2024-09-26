@@ -3,8 +3,7 @@
 <a id="readme-top"></a>
 
 <div align="center">
-<video controls width="521">
-  <source src="./demo.mp4" type="video/mp4" />
+ <img src="./preview.png" alt="Preview" width="521" height="587">
 
   <h3 align="center">Super Mario Shoes</h3>
 
