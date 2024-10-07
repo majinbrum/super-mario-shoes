@@ -87,12 +87,7 @@ To get a local copy up and running follow these simple example steps.
    ```sh
    git clone https://github.com/majinbrum/super-mario-shoes
    ```
-2. Change git remote url to avoid accidental pushes to base project
-   ```sh
-   git remote set-url origin github_username/repo_name
-   git remote -v # confirm the changes
-   ```
-3. Open the `index.html` file in a web browser to view the application or use `Live Server`, open your web browser and navigate to http://localhost:3000.
+2. Open the `index.html` file in a web browser to view the application or use `Live Server`, open your web browser and navigate to http://localhost:3000.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
